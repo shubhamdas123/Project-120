@@ -1,0 +1,17 @@
+.copy-right-footer {
+    background-color: lightgrey;
+    color: black;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+
+.testImageAndResult {
+    background-color: grey;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: -20px;
+}
